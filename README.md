@@ -1,2 +1,2 @@
-# samshop
-projet intégration photoshop en HTML CSS
+# Samshop
+Moussa Ndeye Samba Babacar
